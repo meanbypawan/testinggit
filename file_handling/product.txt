@@ -1,0 +1,4 @@
+1001 Boroplus 5.000000
+1001 Fair_n_lovely 10.000000
+1002 Lipstick 250.000000
+1003 Body_lotion 150.000000
